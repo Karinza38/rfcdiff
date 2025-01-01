@@ -1,4 +1,4 @@
-# rfcdiff
+ # rfcdiff
 
 [rfcdiff web service](https://author-tools.ietf.org/iddiff) | [rfcdiff script](https://github.com/ietf-tools/rfcdiff/raw/main/rfcdiff)
 
